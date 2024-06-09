@@ -9,7 +9,7 @@ Due to the increasing number of nodes in Comfyui, many open-source authors have 
 
 # Knowledge Planet Project/知识星球项目
 
-AIX知识星球号/Aix Knowledge Planet Number：96920057  
+AIX知识星球号/Aix Knowledge Planet Number：96920057
 AIX知识星球中文名/Aix Knowledge Planet Chinese Name：AIX艾克斯
 项目地址/Project Address：https://t.zsxq.com/7F90A
 

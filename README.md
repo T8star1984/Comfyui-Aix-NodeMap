@@ -20,7 +20,7 @@ Aix的愿景，Ai让人类更高效，本着开源精神，我们还开放了永
 
 Aix's vision is to make humanity more efficient. In line with the spirit of open source, we have also opened up a permanently free knowledge planet project, updating the latest workflow, AI information, and node introductions daily. Currently, there are well-known Layerstyle authors, famous model developers such as Teacher Xu'er, Teacher Jin Zai Zai, and Teacher Tianqing working together. We welcome people with aspirations to join this open source project. May the development of AI benefit every ordinary person. When one day our consciousness endures and there is no competition in the world, open source is the greatest carbon based will left for humanity in the silicon-based era.
 
-# Aix团队介绍
+# Aix/Team Intro/Aix团队介绍
 
 国内官网/Domestic official website：近期上限/Coming Soon
 
@@ -32,8 +32,8 @@ Aix's vision is to make humanity more efficient. In line with the spirit of open
 
 On June 9, 2024, today marks the first anniversary of the founding of our AIX team. As we move forward, some have retired, some have stopped, and some are lost. Although the road is long and obstructed, the original intention remains unchanged, and the future is long.
 
-### Aix团队-张宏坤，Shatter，Oceh，满心欢喜，欣欣，T8.star以及团队内其他所有成员
+### Aix团队-张宏坤，Shatter，Oceh，满心欢喜，欣欣，T8.star以及团队内其他所有成员/Aix Team-Zhang Hongkun,Shatter,Oceh,满心欢喜，欣欣，T8.star and other team members.
 
-# Aix作品展示
+# Aix works Exhibition/Aix作品展示
 
 # WIP（Work in progress）/正在建设中

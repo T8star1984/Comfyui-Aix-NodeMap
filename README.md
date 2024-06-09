@@ -28,7 +28,7 @@ Aix's vision is to make humanity more efficient. In line with the spirit of open
 
 联系方式-微信/Contact Information-Wechat:aix0069
 
-2024年6月9日，今天是我们AIX团队成立一周年，在行进中，有人退伍，有人驻足，有人彷徨，虽道阻且长，唯初心不变，则来日方长。
+2024年6月9日，今天是我们AIX团队成立一周年，在行进中，有人退伍，有人驻足，有人彷徨，虽道阻且长，唯初心不改，则来日方长。
 
 On June 9, 2024, today marks the first anniversary of the founding of our AIX team. As we move forward, some have retired, some have stopped, and some are lost. Although the road is long and obstructed, the original intention remains unchanged, and the future is long.
 

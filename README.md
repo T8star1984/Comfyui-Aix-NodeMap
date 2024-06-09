@@ -10,7 +10,9 @@ Due to the increasing number of nodes in Comfyui, many open-source authors have 
 # Knowledge Planet Project/知识星球项目
 
 AIX知识星球号/Aix Knowledge Planet Number：96920057
+
 AIX知识星球中文名/Aix Knowledge Planet Chinese Name：AIX艾克斯
+
 项目地址/Project Address：https://t.zsxq.com/7F90A
 
 
@@ -21,6 +23,7 @@ Aix's vision is to make humanity more efficient. In line with the spirit of open
 # Aix团队介绍
 
 国内官网/Domestic official website：近期上限/Coming Soon
+
 海外官网/Overseas official website：近期上限/Coming Soon
 
 联系方式-微信/Contact Information-Wechat:aix0069

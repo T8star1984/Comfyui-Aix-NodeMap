@@ -62,12 +62,13 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 ![2024.06.14更新商业置景Ultra](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/shang3.jpg)
 ![2024.06.14更新商业置景Ultra](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/shang4.jpg)
 
-### 2024.06.01更新风格模板/June 1, 2024 Update Style Template
-
-![2024.06.01更新风格模板](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huo1.jpg)
 
 ### 2024.06.01更新完美光影/June 1, 2024 Update Perfect Light and Shadow
 
 ![2024.06.01更新完美光影](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/guang1.jpg)
+
+### 2024.06.01更新风格模板/June 1, 2024 Update Style Template
+
+![2024.06.01更新风格模板](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huo1.jpg)
 
 

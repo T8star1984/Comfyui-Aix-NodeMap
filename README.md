@@ -22,9 +22,9 @@ Aix's vision is to make humanity more efficient. In line with the spirit of open
 
 # Aix Team Intro/Aix团队介绍
 
-国内官网/Domestic official website：近期上线/Coming Soon
+国内官网/Domestic official website：[点击访问](http://aix.studio/)
 
-海外官网/Overseas official website：近期上线/Coming Soon
+海外官网/Overseas official website：[点击访问](https://www.aixsuper.com/)
 
 联系方式-微信/Contact Information-Wechat:aix0069
 

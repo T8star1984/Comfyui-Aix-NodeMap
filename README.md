@@ -4,7 +4,7 @@ Comfyui's latest node organization and annotation, continuously updated, and sup
 
 Due to the increasing number of nodes in Comfyui, many open-source authors have put a lot of effort into exposing nodes that have not been effectively exposed, and users find it increasingly difficult as the number of nodes increases. Therefore, our Aix team has specially designed this project to update the latest node information every 2-3 days (if there are any omissions or errors, you can provide feedback in the Issue). Due to the subjective opinions of some nodes and the timeliness of some nodes, we hope for your understanding. If you provide feedback, we will make corrections as soon as possible. We respect every developer. Thank you
 
-由于Comfyui的节点越来越多，许多开源作者付出了很大精力的节点没得到有效的曝光，而用户随着节点的增多查找难度也越来越高，所以我们Aix团队特地做了此项目，每2-3日更新一次最新的节点信息（如果有所遗漏或者错误，您可以在Issue中反馈），由于部分节点可能带有主观意见，部分节点带有时效性，如有不妥还望海涵，如您反馈我们会并会尽快修正， 我们尊重每一个开发者，谢谢
+由于Comfyui的节点越来越多，许多开源作者付出了很大精力的节点没得到有效的曝光，而用户随着节点的增多查找难度也越来越高，所以我们Aix团队特地做了此项目，每2-3日更新一次最新的节点信息（如果有所遗漏或者错误，您可以在Issue中反馈），由于部分节点可能带有主观意见，部分节点带有时效性，如有不妥还望海涵，如您反馈我们会尽快修正， 我们尊重每一个开发者，谢谢
 
 
 # Knowledge Planet Project/知识星球项目

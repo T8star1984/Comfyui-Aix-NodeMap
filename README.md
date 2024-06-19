@@ -34,8 +34,13 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 ### Aix团队-张宏坤，Shatter，Oceh，满心欢喜，欣欣，T8.star以及团队内其他所有成员/Aix Team-Zhang Hongkun,Shatter,Oceh,满心欢喜，欣欣，T8.star and other team members.
 
-# Aix works Exhibition/Aix作品展示
+### Aix works Exhibition/Aix作品展示
 
+# 2024.06.18更新风格模板/June 18, 2024 Update Style Template
 ![2024.06.18更新风格模板](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zui1.jpg)
+![enter image description here](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zui2.jpg)
+![enter image description here](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zui3.jpg)
+![enter image description here](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zui4.jpg)
+
 
 

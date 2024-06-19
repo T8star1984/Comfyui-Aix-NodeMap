@@ -43,7 +43,7 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 ![2024.06.17更新风格模板](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/dun1.jpg)
 
-### 2024.06.16更新风格模板/June 15, 2024 Update Style Template
+### 2024.06.15更新风格模板/June 15, 2024 Update Style Template
 
 ![2024.06.15更新风格模板](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/liu1.jpg)
 
@@ -55,20 +55,61 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 ![2024.06.14更新商片融图Ultra](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/rong1.jpg)
 
-### 2024.06.06更新商业置景Ultra/June 14, 2024 Update commercial landscape Ultra
+### 2024.06.14更新一键转动漫/June 14, 2024 Update One click conversion to anime
+
+![2024.06.14更新一键转动漫](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/dong.png)
+
+### 2024.06.13更新终极换脸/June 13, 2024 Update Ultimate facelift
+
+![2024.06.13更新终极换脸](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/face.jpg)
+
+### 2024.06.12更新商用产品摄影/June 12, 2024 Update Commercial product photography
+
+![2024.06.12更新商用产品摄影](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/yong.jpg)
+
+### 2024.06.11更新终极高清放大/June 11, 2024 Update Ultimate HD amplification
+
+![2024.06.11更新终极高清放大](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zhong.png)
+
+### 2024.06.10更新终极一键大场景/June 10, 2024 Update Ultimate One Click Scene
+
+![2024.06.10更新终极一键大场](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/da.jpg)
+
+### 2024.06.09更新分块放大/June 9, 2024 Update Block amplification
+
+![2024.06.09更新分块放大](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/fang.jpg)
+
+### 2024.06.08更新像素细化supir(免费版，非商用)/June 8, 2024 Update Pixel Refinement Supir (Free Version, Non Commercial)
+
+![enter image description here](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/supir.png)
+
+### 2024.06.07更新无痕极小局部重绘/June 7, 2024 Update Traceless minimal local redrawing
+
+![2024.06.07更新无痕极小局部重绘](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/xiao.jpg)
+
+### 2024.06.06更新商业置景Ultra/June 6, 2024 Update commercial landscape Ultra
 
 ![2024.06.14更新商业置景Ultra](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/shang1.jpg)
 ![2024.06.14更新商业置景Ultra](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/shang2.jpg)
 ![2024.06.14更新商业置景Ultra](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/shang3.jpg)
 ![2024.06.14更新商业置景Ultra](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/shang4.jpg)
 
+### 2024.06.05更新终极虚拟摄影/June 5, 2024 Update Ultimate Virtual Photography
 
-### 2024.06.01更新完美光影/June 1, 2024 Update Perfect Light and Shadow
+![2024.06.05更新终极虚拟摄影](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/xu.png)
 
-![2024.06.01更新完美光影](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/guang1.jpg)
+### 2024.06.04更新专业摄影/June 4, 2024 Update Professional Photography
+
+![2024.06.04更新专业摄影](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zhuan.jpg)
+
+### 2024.06.02更新完美光影/June 2, 2024 Update Perfect Light and Shadow
+
+![2024.06.02更新完美光影](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/guang1.jpg)
 
 ### 2024.06.01更新风格模板/June 1, 2024 Update Style Template
 
 ![2024.06.01更新风格模板](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huo1.jpg)
+
+
 
 

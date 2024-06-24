@@ -36,6 +36,13 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 # Aix works Exhibition/Aix作品展示
 
+### 2024.06.24更新商业换脸Ultra 11.0/June 24, 2024 Update Commercial facelift Ultra 11.0
+
+支持8K超大图片直接换脸，支持远景超小人物脸部换脸，支持各种风格换脸融合/Supports 8K super large images for direct face changing, supports distant super small character face changing, and supports various styles of face changing fusion
+
+![2024.06.22更新风格模板](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/lianlian1.png)
+![2024.06.22更新风格模板](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/lianlian2.png)
+
 ### 2024.06.22更新风格模板/June 22, 2024 Update Style Template
 
 ![2024.06.22更新风格模板](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/biye1.jpg)

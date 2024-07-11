@@ -38,12 +38,12 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 ### 2024.07.11更新赛事灯光工作流/July 11, 2024 Update Event version lighting workflow
 
-![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng11.png)
-![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng12.png)
-![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng13.png)
-![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng14.png)
-![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng15.png)
-![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng16.png)
+![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng1.png)
+![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng2.png)
+![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng3.png)
+![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng4.png)
+![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng5.png)
+![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng6.png)
 
 ### 2024.07.11更新风格模板/July 11, 2024 Update Style Template
 

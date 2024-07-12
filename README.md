@@ -36,6 +36,10 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 # Aix works Exhibition/Aix作品展示
 
+### 2024.07.12更新风格模板/July 12, 2024 Update Style Template
+
+![2024.07.11更新风格模板](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/jin1.png)
+
 ### 2024.07.11更新赛事灯光工作流/July 11, 2024 Update Event version lighting workflow
 
 ![2024.07.11更新赛事灯光工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/deng1.png)

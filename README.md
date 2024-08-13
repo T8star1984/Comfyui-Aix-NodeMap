@@ -38,7 +38,7 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 ### 2024.08.13更新一键专业光影颜色（6-8K）工作流/August 30, 2024 Update One click professional light and shadow color (6-8K)
 
-![2024.08.13更新一键专业光影颜色（6-8K）工作流](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/guang2.png)
+![2024.08.13更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/guang2.png)
 
 ### 2024.07.30更新11.3商业融图工作流/July 30, 2024 Update Commercial integration image
 

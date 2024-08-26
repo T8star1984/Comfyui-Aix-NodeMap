@@ -36,7 +36,22 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 # Aix works Exhibition/Aix作品展示
 
-### 2024.08.13更新一键专业光影颜色（6-8K）工作流/August 30, 2024 Update One click professional light and shadow color (6-8K)
+### 2024.08.26更新12.0MirageMimic幻影工作流/2024.08.26 Update 12.0 MirageMimic Phantom Workflow
+
+![2024.08.26更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/mm1.png)
+![2024.08.26更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/mm2.png)
+![2024.08.26更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/mm3.png)
+
+### 2024.08.26更新12.0 Wensheng Diagram (FLUX)工作流/2024.08.26 Update 12.0 Wensheng Diagram (FLUX) Workflow
+
+![2024.08.26更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/flux1.png)
+
+### 2024.08.26更新Oneclick图生图一键抽卡(FLUX)工作流/On August 26, 2024, Oneclick Image Production Drawing One Click Card Drawing (FLUX) Workflow was updated
+
+![2024.08.26更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/flux2.png)
+![2024.08.26更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/flux3.png)
+
+### 2024.08.13更新一键专业光影颜色（6-8K）工作流/August 13, 2024 Update One click professional light and shadow color (6-8K)
 
 ![2024.08.13更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/guang2.png)
 

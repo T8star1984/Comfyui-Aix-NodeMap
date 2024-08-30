@@ -36,7 +36,13 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 # Aix works Exhibition/Aix作品展示
 
-### 2024.08.26更新12.0MirageMimic幻影工作流/2024.08.26 Update 12.0 MirageMimic Phantom Workflow
+### 2024.08.27更新12.0一键整体重绘（FLUX）工作流/2024.08.27 Update 12.0 One click overall redrawing (FLUX) workflow
+
+![2024.08.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zt1.png)
+![2024.08.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zt2.png)
+![2024.08.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zt3.png)
+
+### 2024.08.26更新12.0 MirageMimic幻影工作流/2024.08.26 Update 12.0 MirageMimic Phantom Workflow
 
 ![2024.08.26更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/mm1.png)
 ![2024.08.26更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/mm2.png)

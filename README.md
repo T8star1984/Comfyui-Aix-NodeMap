@@ -36,6 +36,17 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 # Aix works Exhibition/Aix作品展示
 
+### 2024.08.30更新12.0一键商片幻视融图（FLUX）工作流/2024.08.27 Update 12.0 One Click Commercial Film Vision Fusion (FLUX) workflow
+
+![2024.08.30更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanshi1.png)
+![2024.08.30更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanshi2.png)
+![2024.08.30更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanshi3.png)
+
+### 2024.08.30更新12.0一键高清放大（FLUX）工作流/2024.08.27 Update 12.0 One click high-definition zoom in (FLUX) workflow
+
+![2024.08.30更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/ffd1.png)
+![2024.08.30更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/ffd2.png)
+
 ### 2024.08.27更新12.0一键整体重绘（FLUX）工作流/2024.08.27 Update 12.0 One click overall redrawing (FLUX) workflow
 
 ![2024.08.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zt1.png)

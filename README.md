@@ -36,14 +36,14 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 # Aix works Exhibition/Aix作品展示
 
-### 2024.09.09更新12.0 MirageMimic（FLUX幻影）工作流/2024.09.09 Update 12.0 Mirage Mimic (FLUX Phantom) Workflow
+### 2024.09.05更新12.0 MirageMimic（FLUX幻影）工作流/2024.09.05 Update 12.0 Mirage Mimic (FLUX Phantom) Workflow
 
-![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying1.png)
-![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying2.png)
-![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying3.png)
-![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying4.png)
-![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying5.png)
-![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying6.png)
+![2024.09.05更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying1.png)
+![2024.09.05更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying2.png)
+![2024.09.05更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying3.png)
+![2024.09.05更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying4.png)
+![2024.09.05更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying5.png)
+![2024.09.05更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying6.png)
 
 ### 2024.08.30更新12.0一键商片幻视融图（FLUX）工作流/2024.08.27 Update 12.0 One Click Commercial Film Vision Fusion (FLUX) workflow
 

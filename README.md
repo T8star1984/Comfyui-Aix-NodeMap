@@ -36,6 +36,19 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 # Aix works Exhibition/Aix作品展示
 
+### 2024.09.09更新12.0幻颜发布！（超真实换颜）工作流/2024.09.09 Update 12.0 Huanyan Release! (Super realistic face changing) workflow
+
+![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanyan1.png)
+![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanyan2.png)
+![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanyan3.png)
+![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanyan4.png)
+![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanyan5.png)
+
+### 2024.09.09更新12.0一键白底图（实用工具）工作流/2024.09.09 Update 12.0 One click white background image (practical tool) workflow
+
+![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/bai1.png)
+![2024.09.09更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/bai2.png)
+
 ### 2024.09.05更新12.0 MirageMimic（FLUX幻影）工作流/2024.09.05 Update 12.0 Mirage Mimic (FLUX Phantom) Workflow
 
 ![2024.09.05更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/huanying1.png)

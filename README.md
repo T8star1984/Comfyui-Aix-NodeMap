@@ -36,12 +36,27 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 # Aix works Exhibition/Aix作品展示
 
-### 2024.10.14更新12.0专业人像摄影（最终幻想工作流/2024.09.14 Update 12.0 Professional portrait photography (Final Fantasy) Workflow
+### 2024.11.01更新12.0一键人像/产品/汽车精修工作流/2024.11.01 Update 12.0 One click portrait/product/car retouching workflow
 
-![2024.09.14更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zz1.png)
-![2024.09.14更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zz2.png)
-![2024.09.14更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zz3.png)
-![2024.09.14更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zz4.png)
+![2024.10.24更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/jx1.png)
+![2024.10.24更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/jx2.png)
+
+### 2024.10.24更新12.2幻颜工作流-AI追色，自定义表情，超真实质感/2024.10.24 Update 12.2 Phantom Appearance Workflow - AI Color Pursuit, Custom Emotions, Super Realistic Texture
+
+![2024.10.24更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/hyb1.png)
+![2024.10.24更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/hyb2.png)
+![2024.10.24更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/hyb3.png)
+
+### 2024.10.22更新12.0表情编辑器工作流/2024.10.22 Update 12.0 Emoji Editor Workflow
+
+![2024.10.22更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/bq1.png)
+
+### 2024.10.14更新12.0专业人像摄影（最终幻想工作流）/2024.09.14 Update 12.0 Professional portrait photography (Final Fantasy) Workflow
+
+![2024.10.14更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zz1.png)
+![2024.10.14更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zz2.png)
+![2024.10.14更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zz3.png)
+![2024.10.14更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/zz4.png)
 
 ### 2024.09.14更新12.0专业虚拟大片（幻想FLUX）工作流/2024.09.14 Update 12.0 Professional Virtual Movie (Fantasy FLUX) Workflow
 

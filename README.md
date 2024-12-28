@@ -40,6 +40,42 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 ![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/gqfd1.png)
 
+### 2024.12.27更新AIX-13.0高清无损放大（FLUX配方2）工作流/Update AIX-13.0 High Definition Lossless Amplification (FLUX Formula 2) Workflow on December 27, 2024
+
+![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/gqfd2.png)
+
+### 2024.12.27更新AIX-13.0商业级T0融合细化（梦光）工作流/Update AIX-13.0 Business Grade T0 Fusion Refinement (Mengguang) Workflow on December 27, 2024
+
+![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/mg.png)
+
+### 2024.12.27更新AIX-13.0专业后期完美透视（梦影）工作流/Update AIX-13.0 Professional Post Production Perfect Perspective (Dreaming Shadow) Workflow on December 27, 2024
+
+![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/my.png)
+
+### 2024.12.27更新AIX-13.0商业级置景（梦境）工作流/Update AIX-13.0 Commercial Landscape (Dreamland) Workflow on December 27, 2024
+
+![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/mj.png)
+
+### 2024.12.27更新AIX-13.0一键爆款电商图（全自动）工作流/Update AIX-13.0 one click popular e-commerce image (fully automatic) workflow on December 27, 2024
+
+![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/dst.png)
+
+### 2024.12.27更新AIX-13.0一键爆款电商（手涂版）工作流/Update AIX-13.0 one click popular e-commerce (hand painted version) workflow on December 27, 2024
+
+![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/dsst.png)
+
+### 2024.12.27更新AIX-13.0一致性模特场景生成（洗图）工作流/Update AIX-13.0 Consistent Model Scene Generation (Showdown) Workflow on December 27, 2024
+
+![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/cjsc.png)
+
+### 2024.12.27更新AIX-13.0一致性模特生成（提示词）工作流/Update AIX-13.0 Consistent Model Generation (Prompt Word) Workflow on December 27, 2024
+
+![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/yzs.png)
+
+### 2024.12.27更新AIX13.0一键高级商片融图工作流/Update AIX13.0 one click advanced commercial image fusion workflow on December 27, 2024
+
+![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/sprt.png)
+
 ### 2024.11.01更新12.0一键人像/产品/汽车精修工作流/2024.11.01 Update 12.0 One click portrait/product/car retouching workflow
 
 ![2024.11.01更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/jx1.png)

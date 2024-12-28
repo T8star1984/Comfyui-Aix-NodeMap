@@ -26,6 +26,17 @@ Aix's vision is to make humanity more efficient. In line with the spirit of open
 
 海外官网/Overseas official website：[点击访问](https://www.aixsuper.com/)
 
+B站/bilibli：[点击访问](https://space.bilibili.com/385085361)
+
+油管/Youtube：[点击访问](https://space.bilibili.com/385085361)
+
+推特/X：[点击访问](https://www.youtube.com/@T8star-Aix)
+
+openart工作流/openart workflow：[点击访问](https://openart.ai/workflows/profile/t8star)
+
+LiblibAI工作流/LiblibAI workflow：[点击访问](https://www.liblib.art/userpage/f572a7d9aeaa48a7b406fc46a814d479/publish/workflow)
+
+
 联系方式-微信/Contact Information-Wechat:aix0069
 
 2024年6月9日，今天是我们AIX团队成立一周年，在行进中，有人退伍，有人驻足，有人彷徨，虽道阻且长，唯初心不改，则来日方长。

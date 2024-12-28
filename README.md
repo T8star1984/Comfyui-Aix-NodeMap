@@ -23,19 +23,17 @@ Aix's vision is to make humanity more efficient. In line with the spirit of open
 # Aix Team Intro/Aix团队介绍
 
 国内官网/Domestic official website：[点击访问](http://aix.studio/)
-
 海外官网/Overseas official website：[点击访问](https://www.aixsuper.com/)
 
+T8star联系方式/T8star contact：
+
 B站/bilibli：[点击访问](https://space.bilibili.com/385085361)
-
 油管/Youtube：[点击访问](https://space.bilibili.com/385085361)
-
-推特/X：[点击访问](https://www.youtube.com/@T8star-Aix)
-
+推特/X：[点击访问](https://x.com/t8star_aix?s=11&t=h1R9MEriohbQvQ6qHbMR9A)
 openart工作流/openart workflow：[点击访问](https://openart.ai/workflows/profile/t8star)
-
 LiblibAI工作流/LiblibAI workflow：[点击访问](https://www.liblib.art/userpage/f572a7d9aeaa48a7b406fc46a814d479/publish/workflow)
 
+Aix创始人老张联系方式/Aix founder zhang contact:
 
 联系方式-微信/Contact Information-Wechat:aix0069
 

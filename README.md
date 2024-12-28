@@ -36,10 +36,14 @@ On June 9, 2024, today marks the first anniversary of the founding of our AIX te
 
 # Aix works Exhibition/Aix作品展示
 
+### 2024.12.27更新AIX-13.0高清放大（FLUX配方1）工作流/Update AIX-13.0 HD Magnification (FLUX Recipe 1) Workflow on December 27, 2024
+
+![2024.12.27更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/gqfd1.png)
+
 ### 2024.11.01更新12.0一键人像/产品/汽车精修工作流/2024.11.01 Update 12.0 One click portrait/product/car retouching workflow
 
-![2024.10.24更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/jx1.png)
-![2024.10.24更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/jx2.png)
+![2024.11.01更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/jx1.png)
+![2024.11.01更新](https://github.com/T8star1984/Comfyui-Aix-NodeMap/blob/main/pic2/jx2.png)
 
 ### 2024.10.24更新12.2幻颜工作流-AI追色，自定义表情，超真实质感/2024.10.24 Update 12.2 Phantom Appearance Workflow - AI Color Pursuit, Custom Emotions, Super Realistic Texture
 

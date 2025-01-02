@@ -30,7 +30,7 @@ T8star联系方式/T8star contact：
 
 B站/bilibli：[点击访问](https://space.bilibili.com/385085361)
 
-油管/Youtube：[点击访问](https://space.bilibili.com/385085361)
+油管/Youtube：[点击访问](https://www.youtube.com/@T8star-Aix)
 
 推特/X：[点击访问](https://x.com/t8star_aix?s=11&t=h1R9MEriohbQvQ6qHbMR9A)
 
